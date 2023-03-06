@@ -11,9 +11,9 @@
 
 6.pip2 install mechanize && pip2 install requests
 
-7.git clone https://github.com/maskprivate1457/META-MBF.git
+7.git clone https://github.com/Juanhulu/juanhulu09.git
 
-8.cd META-MBF
+8.cd juanhulu09
 
 9.pip install requests && pip install mechanize 
 
